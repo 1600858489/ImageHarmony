@@ -1,4 +1,4 @@
-```markdown
+
 # Siamese Network for Image Similarity
 
 ## 模型训练
@@ -6,7 +6,7 @@
 ### 1. 数据集准备
 
 确保你有一个包含训练数据的文件夹。每个文件夹内应包含两个子文件夹，分别为`positive`和`negative`，用于存放相似和不相似的图像对。
-
+```markdown
 dataset/
 |-- class1/
 |   |-- positive/
